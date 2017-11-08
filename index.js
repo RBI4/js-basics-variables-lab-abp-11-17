@@ -1,1 +1,5 @@
-// Code your solution in this file!
+const companyName = "Scuber";
+
+let mostProfitable Neighborhood = "Chelsea";
+
+let companyCeo = "Susan Smith";
